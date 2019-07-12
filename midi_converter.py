@@ -1,8 +1,6 @@
 import pretty_midi
 import os
-import glob
-#from mido import Message, MidiFile, MidiTrack, merge_tracks
-#import mido
+
 #inputフォルダから読み込む
 inpath = 'input/'
 #outputフォルダから読み込む
